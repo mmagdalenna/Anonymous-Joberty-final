@@ -1,0 +1,20 @@
+{
+  "name": "joberty_cliet_server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@semaphore-protocol/core": "^4.9.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
