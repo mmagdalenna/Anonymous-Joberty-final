@@ -46,9 +46,7 @@ async function calculateProof(){
         console.log('User is a member of the group and can potentially leave a review!');
     
         const scope=group.root;
-        console.log('111');
         const message=reviewInput.value;
-        console.log('222');
         // generating the proof
         const proof=await generateProof(userIdentity,group,message,scope);
         console.log('PROOF:',proof);
