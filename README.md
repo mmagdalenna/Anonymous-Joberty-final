@@ -41,6 +41,7 @@ To make this work in-browser, **Webpack** is used to bundle the Semaphore code a
    node server.js
 
 3. **Open the app in your browser**
+   
    Navigate to: 
    ```bash
    npm run build
