@@ -44,4 +44,4 @@ To make this work in-browser, **Webpack** is used to bundle the Semaphore code a
    
    Navigate to: 
    ```bash
-   npm run build
+   http://localhost:3000
